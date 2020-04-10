@@ -1,0 +1,10 @@
+[core]
+	bare = true
+	repositoryformatversion = 0
+	filemode = false
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://bitbucket.org/msksoft/river-raid-game/src/master/
+	fetch = +refs/heads/*:refs/remotes/origin/*
+	pushurl = https://bitbucket.org/msksoft/river-raid-game/src/master/
